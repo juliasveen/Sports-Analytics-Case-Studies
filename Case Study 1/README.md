@@ -2,7 +2,7 @@
 
 **Regression analysis predicting percent capacity at Dodgers Stadium from 2014–2022.**
 
-Built for a data science course at FSU. The goal was to figure out what actually drives attendance — opponent, month, team performance — and build a model that could predict it.
+Built for the Applied Data Analytics in Sports Management course at FSU. The goal was to figure out what actually drives attendance — opponent, month, team performance — and build a model that could predict it.
 
 ---
 
@@ -46,4 +46,4 @@ Uses MLB attendance and venue capacity data to predict what percentage of Dodger
 
 ---
 
-*Julia Sveen · Florida State University · LIS5377*
+*Julia Sveen · Florida State University*
