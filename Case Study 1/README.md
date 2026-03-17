@@ -46,4 +46,4 @@ Uses MLB attendance and venue capacity data to predict what percentage of Dodger
 
 ---
 
-*Julia Sveen · Florida State University*
+*Julia Sveen · Florida State University · Completed in 2023*
